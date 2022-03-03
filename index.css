@@ -315,7 +315,6 @@ button:hover {
   line-height: 1.5;
 }
 
-
 .closure {
   flex-direction: column;
   justify-content: center;
@@ -325,7 +324,7 @@ button:hover {
   padding-bottom: 50px;
   background: linear-gradient(to right, #E72E58, #D53974, #C12C93);
   color: white;
-  line-height: 0.3;
+  line-height: 1.5;
   padding-left: 15px;
   padding-right: 15px;
 }
