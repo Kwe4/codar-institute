@@ -89,7 +89,7 @@ nav {
   font-size: 3.7em;
 }
 .text-side button {
-  width: 40%;
+  width: 50%;
 }
 
 .img-box {
@@ -233,8 +233,8 @@ button {
 .companies {
   flex-direction: column;
   text-align: center;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .companies h1 {
@@ -260,8 +260,8 @@ button {
   /* border: solid black 0.3px; */
   padding-top: 5px;
   padding-bottom: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
   /* box-shadow: 2.5px 2.5px 10px rgb(210, 210, 210); */
 }
 
@@ -412,7 +412,7 @@ footer {
 
 
   .logo {
-    width: 60%;
+    width: 65%;
     display: flex;
     justify-content: left;
   }
@@ -511,5 +511,14 @@ footer {
 }
 
 
+
+}
+
+@media (max-width: 450px) {
+   
+   
+  .box {
+    width: 100%;
+  }
 
 }
