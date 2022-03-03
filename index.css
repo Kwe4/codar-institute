@@ -233,8 +233,8 @@ button {
 .companies {
   flex-direction: column;
   text-align: center;
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .companies h1 {
@@ -260,8 +260,8 @@ button {
   /* border: solid black 0.3px; */
   padding-top: 5px;
   padding-bottom: 5px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
   /* box-shadow: 2.5px 2.5px 10px rgb(210, 210, 210); */
 }
 
